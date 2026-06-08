@@ -3,14 +3,14 @@ entries:
   kubepilot:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-08T02:35:52.161621433-04:00"
+    created: "2026-06-08T02:41:52.242330163-04:00"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
       repository: https://charts.bitnami.com/bitnami
       version: 13.x.x
     description: AI-powered Kubernetes & OpenShift operations platform
-    digest: bc567eea1168da653194217e31bf32d711ea0a46234f4aa8bbf464deeeff7c58
+    digest: cc224c8088025b861d0b3a85f3141b2152a150272c8bb49bd92fd3e6c05fd023
     name: kubepilot
     type: application
     urls:
@@ -18,7 +18,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-08T02:35:52.158378352-04:00"
+    created: "2026-06-08T02:41:52.238579662-04:00"
     description: AI-powered Kubernetes & OpenShift operations platform
     digest: e8b58a4d149cd5d3b9f3afe472334a1eb40e35e4435eb19b6f2da92eb5dd7bac
     name: kubepilot
@@ -26,4 +26,4 @@ entries:
     urls:
     - https://mashakilv2.github.io/kubepilot-h/kubepilot-0.1.0.tgz
     version: 0.1.0
-generated: "2026-06-08T02:35:52.157771106-04:00"
+generated: "2026-06-08T02:41:52.238302438-04:00"
