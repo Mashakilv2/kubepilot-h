@@ -3,12 +3,12 @@ entries:
   kubepilot:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-08T01:24:16.029687239-04:00"
+    created: "2026-06-08T02:26:05.264808878-04:00"
     description: AI-powered Kubernetes & OpenShift operations platform
-    digest: a9c4e473da736706650d3f098bdac1ca6d34e3375fa187a78be3abd0cb0e2d99
+    digest: e8b58a4d149cd5d3b9f3afe472334a1eb40e35e4435eb19b6f2da92eb5dd7bac
     name: kubepilot
     type: application
     urls:
     - https://mashakilv2.github.io/kubepilot-h/kubepilot-0.1.0.tgz
     version: 0.1.0
-generated: "2026-06-08T01:24:16.029350949-04:00"
+generated: "2026-06-08T02:26:05.264283664-04:00"
