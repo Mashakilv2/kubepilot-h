@@ -3,7 +3,17 @@ entries:
   kubepilot:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-08T03:01:20.484386707-04:00"
+    created: "2026-06-10T02:54:32.333484957-04:00"
+    description: AI-powered Kubernetes & OpenShift operations platform
+    digest: f2ffdb778806881e93c9aca1ca4c3496714d682ff9d2f2575146347a42ee4d3b
+    name: kubepilot
+    type: application
+    urls:
+    - https://mashakilv2.github.io/kubepilot-h/kubepilot-0.4.0.tgz
+    version: 0.4.0
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2026-06-10T02:54:32.333335167-04:00"
     description: AI-powered Kubernetes & OpenShift operations platform
     digest: 849a0303a2c092ca7fa7dfab225c95d5739b0c19549231c8a2c4fb4821a77676
     name: kubepilot
@@ -13,7 +23,7 @@ entries:
     version: 0.3.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-08T03:01:20.484240749-04:00"
+    created: "2026-06-10T02:54:32.332997892-04:00"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -28,7 +38,7 @@ entries:
     version: 0.2.1
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-08T03:01:20.481151885-04:00"
+    created: "2026-06-10T02:54:32.329184219-04:00"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -43,7 +53,7 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2026-06-08T03:01:20.4786276-04:00"
+    created: "2026-06-10T02:54:32.325689433-04:00"
     description: AI-powered Kubernetes & OpenShift operations platform
     digest: e8b58a4d149cd5d3b9f3afe472334a1eb40e35e4435eb19b6f2da92eb5dd7bac
     name: kubepilot
@@ -51,4 +61,4 @@ entries:
     urls:
     - https://mashakilv2.github.io/kubepilot-h/kubepilot-0.1.0.tgz
     version: 0.1.0
-generated: "2026-06-08T03:01:20.478102118-04:00"
+generated: "2026-06-10T02:54:32.324875426-04:00"
